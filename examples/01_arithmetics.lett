@@ -1,0 +1,3 @@
+// Defining a variable
+let a = 3 * 7 + 4 * 2
+a |> print
